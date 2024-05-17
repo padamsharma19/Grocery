@@ -1,2 +1,6 @@
 commit1
+<<<<<<< HEAD
 lets try something new
+=======
+lets see conflict
+>>>>>>> 4380932d0c7549528714305b20160747546e2259
